@@ -12,7 +12,7 @@ A comprehensive *Machine Learning-based Web Application* that predicts laptop pr
 - *Backend*: Powered by Django to manage model integration, data handling, and secure user interaction.
 - *SQLite Database*: Stores user inputs and prediction results efficiently.
 - *Data Visualization*: Integrated visualizations help users gain insights from data and model performance.
-- *Dynamic Prediction Form*: Users can enter laptop specifications and get a predicted price in real-time.
+- *Dynamic Prediction Form*: Users can enter laptop specifications and get a predicted price.
 
 ---
 
@@ -29,7 +29,7 @@ A comprehensive *Machine Learning-based Web Application* that predicts laptop pr
 
 ### ✅ Frontend:
 - HTML, CSS, JavaScript  
-- (Optional) Bootstrap 5.x for responsive design
+
 
 ### ✅ Backend:
 - Django Framework
