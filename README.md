@@ -2,8 +2,6 @@
 
 A comprehensive *Machine Learning-based Web Application* that predicts laptop prices based on various specifications such as brand, processor, RAM, storage, and other technical features. This project aims to help users make informed decisions while comparing and understanding laptop prices.
 
----
-
 ## 🔍 Features
 
 - *Custom Dataset*: Created by scraping publicly available laptop listings, cleaned and preprocessed for optimal model training.
